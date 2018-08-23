@@ -1,0 +1,9 @@
+.DS_Store
+.env
+*.py[cod]
+venv/
+tmp/
+__pycache__/
+.vscode/
+.pylintrc
+*.sqlite
